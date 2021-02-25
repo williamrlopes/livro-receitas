@@ -5,4 +5,5 @@
 Esse documento foi desenvolvido para iniciar os estudos de GIT / GITHUB. Não o leve muito a sério ;)
 
 - Strogonoff de Frango
-- Frango à Passarinho
+- Pavê
+- Bolo de Cenoura
